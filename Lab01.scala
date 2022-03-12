@@ -8,6 +8,8 @@ object Lab_01
 		val mul1 = mul(10,20)
 
 		val mul1 = mul(10,20)
+		
+		val sub1 = sub(10,20)
 
 
            }
