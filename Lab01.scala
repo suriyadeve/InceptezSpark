@@ -5,4 +5,6 @@ object Lab_01
              print("Welcome GitHub")
            }
  def add(a:Int,b:Int)= a + b
+ 
+ def mul(a:Int,b:Int)= a * b
 }
