@@ -7,6 +7,9 @@ object Lab_01
 		
 		val mul1 = mul(10,20)
 
+		val mul1 = mul(10,20)
+
+
            }
  def add(a:Int,b:Int)= a + b
  
