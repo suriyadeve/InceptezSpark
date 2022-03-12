@@ -20,6 +20,8 @@ object Lab_01
  def div(a:Int,b:Int)= a / b
 	   
  def mod(a:Int,b:Int)= a % b
+	   
+ def greater(a:Int,b:Int)= a % b
 
 
 
