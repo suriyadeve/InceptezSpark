@@ -14,6 +14,9 @@ object Lab_01
 		val mod1 = mod(10,2)
 
 		val mod1 = mod(10,2)
+		
+		val diff = sub(10,20)
+		println("diff of values" +diff)
 
 
            }
