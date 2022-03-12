@@ -19,6 +19,8 @@ object Lab_01
 	
  def div(a:Int,b:Int)= a / b
 
+ suriyaprakash
+
 
 
 }
