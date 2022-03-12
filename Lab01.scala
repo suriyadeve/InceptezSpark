@@ -8,6 +8,12 @@ object Lab_01
 		val mul1 = mul(10,20)
 
 		val mul1 = mul(10,20)
+		
+		val sub1 = sub(10,20)
+		
+		val mod1 = mod(10,2)
+
+		val mod1 = mod(10,2)
 
 
            }
@@ -18,6 +24,10 @@ object Lab_01
  def sub(a:Int,b:Int)= a - b
 	
  def div(a:Int,b:Int)= a / b
+	   
+ def mod(a:Int,b:Int)= a % b
+	   
+ def greater(a:Int,b:Int)= a % b
 
  suriyaprakash
 
