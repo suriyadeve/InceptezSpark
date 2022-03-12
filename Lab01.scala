@@ -30,7 +30,7 @@ object Lab_01
  def greater(a:Int,b:Int)= a % b
 
  suriyaprakash
-
+ suriyaprakash
 
 
 }
