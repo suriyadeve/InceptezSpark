@@ -18,6 +18,8 @@ object Lab_01
  def sub(a:Int,b:Int)= a - b
 	
  def div(a:Int,b:Int)= a / b
+	   
+ def mod(a:Int,b:Int)= a % b
 
 
 
